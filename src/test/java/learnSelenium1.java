@@ -33,9 +33,9 @@ public class learnSelenium1 {
         fileInput.sendKeys("C:\\Users\\ADMIN\\Desktop\\du an\\learnSeleniumAgain\\src\\main\\uploadFiles\\tim-mossholder-7ZNp0Buodlc-unsplash.jpg");
         driver.findElement(By.id("file-submit")).click();
     }
-
-
-
+    @Test
+    public void test3_Alert() {
+    }
 
 
 
